@@ -7,3 +7,4 @@
 # Self Generated list
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 sektori.org
+0.0.0.0 bigfoot1942.sektori.org
